@@ -4,6 +4,8 @@ An Android app for the Bluetooth lamps that ship with **KS Light** and **LED LAM
 
 Close KS Light and LED LAMP before connecting. A lamp accepts one Bluetooth connection at a time.
 
+(I really just made this because I was tired of having to use 2 different apps for the lights in my room.)
+
 ## Install
 
 The debug build is `Lights.apk` in this folder. Copy it to the phone and open it. Android will ask you to allow install from this source.
